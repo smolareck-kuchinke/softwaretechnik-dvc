@@ -62,10 +62,10 @@ https://github.com/edlich/education/pull/569
 ## Screenshots
 
 ### Git-Verlauf
-![Git Verlauf](commits.png)
+![Git Verlauf](images/commits.png)
 
 ### Branches
-![Branches](branches.png)
+![Branches](images/branches.png)
 
 ### Pull Request
-![Pull Request](pullrequest.png)
+![Pull Request](images/pullrequest.png)
